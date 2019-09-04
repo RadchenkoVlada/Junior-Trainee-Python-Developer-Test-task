@@ -5,7 +5,7 @@ All paths are started with 'http'
 ## Install
 Run the following command in order to install required libraries. You can use venv as well.
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Running
